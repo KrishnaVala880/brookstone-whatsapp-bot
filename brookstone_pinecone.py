@@ -6,7 +6,7 @@ import requests
 from dotenv import load_dotenv
 from langchain_pinecone import PineconeVectorStore
 from langchain_community.embeddings import OpenAIEmbeddings
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 
 load_dotenv()
 

@@ -3,5 +3,4 @@ requests
 python-dotenv
 langchain-pinecone
 langchain-community
-langchain
-openai
+langchain-openai
